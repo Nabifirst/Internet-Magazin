@@ -338,7 +338,7 @@ const Products = () => {
             </label>
           </form>
         </div>
-        <img src={showImg} alt="" />
+        <img src={showImg} alt="" placeholder='s' />
       </Dialog>
     </>
   )
